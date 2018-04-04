@@ -30,7 +30,7 @@ ELSE the process is unpredictable, out of control, drifting and no conclusions-j
 
 
 # The four tests are: 
-- Run sequence: the fixed variation assumption is true if vertical spread is the same over entire x axis [there is minimal bends in the trend line]) and the fixed location assumption is true if the run sequence plot [trend line = mean and] is flat and non-drifting.
-- Histogram: the fixed normal distribution is true if bell shaped, other shapes may indicate other type of distribution.
-- Lag plot: the randomness assumption is true if it is structureless and random.
-- Normal probability plot: the fixed distribution assumption is true if linear, a straight line means the data is normally distributed.
+- Run sequence (data vs (i)or(id(test#))): the fixed variation assumption is true if vertical spread is the same over entire x axis [there is minimal bends in the trend line]) and the fixed location assumption is true if the run sequence plot [trend line = mean and] is flat and non-drifting.
+- Histogram (frequency vs bins): the fixed normal distribution is true if bell shaped, other shapes may indicate other type of distribution.
+- Lag plot (data(i) vs data(i-1)): the randomness assumption is true if it is structureless and random.
+- Normal probability plot (ordered Y versus theoretical ordered Y): the fixed distribution assumption is true if linear, a straight line means the data is normally distributed.
