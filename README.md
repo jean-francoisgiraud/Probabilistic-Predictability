@@ -24,8 +24,8 @@ ELSE the process is unpredictable, out of control, drifting and no conclusions-j
 - Each and every one of the above four assumptions must be routinely tested to verify the validity of the final conclusions
 - Extremes in data do not necessarily mean that they are due to a special cause [especially if the process is not in statistical control]. They can still be part of the normal variation of the process.
 
-* The four tests are: 
-- run sequence (the fixed variation assumption is true if vertical spread is the same over entire x axis [there is minimal bends in the trend line]) and (the fixed location  assumption is true if the run sequence plot [trend line = mean and] is flat and non-drifting)
-- histogram (the fixed normal distribution is true if bell shaped, other shapes may indicate other type of distribution)
-- lag plot (the randomness assumption is true if structureless and random)
-- normal probability plot (the fixed distribution assumption is true if linear, a straight line means the data is normally distributed)
+# The four tests are: 
+- Run sequence: the fixed variation assumption is true if vertical spread is the same over entire x axis [there is minimal bends in the trend line]) and the fixed location assumption is true if the run sequence plot [trend line = mean and] is flat and non-drifting.
+- Histogram: the fixed normal distribution is true if bell shaped, other shapes may indicate other type of distribution.
+- Lag plot: the randomness assumption is true if it is structureless and random.
+- Normal probability plot: the fixed distribution assumption is true if linear, a straight line means the data is normally distributed.
