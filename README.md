@@ -34,3 +34,6 @@ ELSE the process is unpredictable, out of control, drifting and no conclusions-j
 - Histogram (frequency vs bins): the fixed normal distribution is true if bell shaped, other shapes may indicate other type of distribution.
 - Lag plot (data(i) vs data(i-1)): the randomness assumption is true if it is structureless and random.
 - Normal probability plot (ordered Y versus theoretical ordered Y): the fixed distribution assumption is true if linear, a straight line means the data is normally distributed.
+
+# REF(1) . SEH Statistics Engineering Handbook
+https://www.itl.nist.gov/div898/handbook/
