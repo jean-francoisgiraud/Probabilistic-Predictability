@@ -39,5 +39,5 @@ THEN we have achieved probabilistic predictability (the ability to make probabil
 - note-1: Stereotyping is a type of heuristic that people use instead of data and statistical analysis to form opinions or make judgments about things they have not completely seen or experienced. They work as a mental shortcut to assess everything from the social status of a person based on their actions to assumptions that a plant that is tall, has a trunk, and has leaves is a tree even though the person making the evaluation has never seen that particular type of tree before. Stereotypes are the pictures people have in their heads that are built around experiences as well as what we are told about the world.
 
 
-# REF(1). SEH Statistics Engineering Handbook
+REF(1). SEH Statistics Engineering Handbook
 https://www.itl.nist.gov/div898/handbook/
