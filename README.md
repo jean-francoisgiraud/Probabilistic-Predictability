@@ -1,6 +1,6 @@
 # Probabilistic-Predictability
 
-- Predictability is a requirement in science, engineering and justice. 
+Predictability is a requirement in science, engineering and justice. 
 
 Parametric Data 
 
@@ -9,10 +9,10 @@ Can you prove it? How? (4 tests)
 
 IF the four tests (assumptions) are true 
 
-- (1) a random sample from a population with
-- (2) a fixed location [mean] with 
-- (3) a fixed distribution [a relatively constant type of distribution such as a the normal distribution (bell curve) ] and 
-- (4) with a fixed variation [a relatively constant standard deviation]
+(1) a random sample from a population with
+(2) a fixed location [mean] with 
+(3) a fixed distribution [a relatively constant type of distribution such as a the normal distribution (bell curve) ] and 
+(4) with a fixed variation [a relatively constant standard deviation]
 
 THEN the data is parametric [it has a known distribution] AND
 
