@@ -1,16 +1,8 @@
 # Probabilistic-Predictability
 
-- Predictability is a requirement in science engineering justice. If the four assumptions hold (random-sampling with constant (average variation distribution)), then we have achieved probabilistic predictability (the ability to make probability statements about the process in the past and about the process in the future). Such processes are said to be "in statistical control".
-- If the four assumptions are valid, then the process can be modeled and used to generate valid scientific and engineering conclusions. 
-- If the four assumptions are not valid, then the process is drifting (with respect to random-sampling, location=average, variation=StandardDeviation, or distribution), unpredictable, and out of control. A simple characterization of such processes by a location estimate, a variation estimate, or a distribution estimate inevitably leads to conclusions that are not valid, are not supportable (scientifically or legally), and which are not repeatable in the laboratory (these types of invalid claims are often made by people who do not understand statistics and rely instead on personal opinions or stereotyping (what seems or 'feels' right)) (note-1).
-- Each of the four assumptions must be routinely tested to verify the continuous validity of the recommendations and conclusions.
-- Extremes in data do not necessarily mean that they are due to a special cause (especially if the process is not in statistical control). They can still be part of the normal variation of the process.
-- References: 
-- Deming TQM, Toyota Production System, ESH (Engineering Statistics Handbook), AS9100, ISO9001, Wikipedia (statistics and probabilities) 
-- Notes: 
-- note-1: Stereotyping is a type of heuristic that people use instead of data and statistical analysis to form opinions or make judgments about things they have not completely seen or experienced. They work as a mental shortcut to assess everything from the social status of a person based on their actions to assumptions that a plant that is tall, has a trunk, and has leaves is a tree even though the person making the evaluation has never seen that particular type of tree before. Stereotypes are the pictures people have in their heads that are built around experiences as well as what we are told about the world.
+- Predictability is a requirement in science, engineering and justice. 
 
-Probabilistic Predictibility from Parametric Data 
+Parametric Data 
 
 Is your data parametric i.e. does it have probabilistic predictability?
 Can you prove it? How? (4 tests)
@@ -35,5 +27,17 @@ ELSE the process is unpredictable, out of control, drifting and no conclusions-j
 - Lag plot (data(i) vs data(i-1)): the randomness assumption is true if it is structureless and random.
 - Normal probability plot (ordered Y versus theoretical ordered Y): the fixed distribution assumption is true if linear, a straight line means the data is normally distributed.
 
-# REF(1) . SEH Statistics Engineering Handbook
+IF the four assumptions hold 
+THEN we have achieved probabilistic predictability (the ability to make probability statements about the process in the past and about the process in the future). Such processes are said to be "in statistical control".
+- If the four assumptions are valid, then the process can be modeled and used to generate valid scientific and engineering conclusions. 
+- If the four assumptions are not valid, then the process is drifting (with respect to random-sampling, location=average, variation=StandardDeviation, or distribution), unpredictable, and out of control. A simple characterization of such processes by a location estimate, a variation estimate, or a distribution estimate inevitably leads to conclusions that are not valid, are not supportable (scientifically or legally), and which are not repeatable in the laboratory (these types of invalid claims are often made by people who do not understand statistics and rely instead on personal opinions or stereotyping (what seems or 'feels' right)) (note-1).
+- Each of the four assumptions must be routinely tested to verify the continuous validity of the recommendations and conclusions.
+- Extremes in data do not necessarily mean that they are due to a special cause (especially if the process is not in statistical control). They can still be part of the normal variation of the process.
+- References: 
+- Deming TQM, Toyota Production System, ESH (Engineering Statistics Handbook), AS9100, ISO9001, Wikipedia (statistics and probabilities) 
+- Notes: 
+- note-1: Stereotyping is a type of heuristic that people use instead of data and statistical analysis to form opinions or make judgments about things they have not completely seen or experienced. They work as a mental shortcut to assess everything from the social status of a person based on their actions to assumptions that a plant that is tall, has a trunk, and has leaves is a tree even though the person making the evaluation has never seen that particular type of tree before. Stereotypes are the pictures people have in their heads that are built around experiences as well as what we are told about the world.
+
+
+# REF(1). SEH Statistics Engineering Handbook
 https://www.itl.nist.gov/div898/handbook/
