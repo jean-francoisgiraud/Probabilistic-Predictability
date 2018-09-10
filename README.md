@@ -1,6 +1,10 @@
-# Probabilistic Predictability
+# Probabilistic Predictability and Machine Learning
 
 Knowing the degree of predictability and confidence in a process is a requirement in many fields such as sciences, engineering, technologies, medecine and justice.  
+
+Current model: Machine learning mathematics> Probability> Frequentists> Basic notion of probability: # Results / # Attempts  
+Future model: Machine learning mathematics> Probability> Bayesian> Basic notion of probability: The probability is not a number, but a distribution itself.  
+
 
 Parametric Data provides confidence levels in judgements and predictions.  
 
