@@ -23,6 +23,8 @@ THEN the data is parametric (it has a known distribution) AND probabilistic pred
 
 ELSE the process is unpredictable, out of control, drifting and no conclusions-judgements for the past or predictions in the future can be made. Repeating the tests will yield different and unrelated results because there could be other unknown and unknowable variables not accounted for.
 
+An example of unpredictable out of control data that cannot be used to make predicitions is the 2016 United States elections. All media and pundits were completely wrong in predicting the results because their statistical models failed the 4 tests (the samples were not random with a constant mean and a constant distribution and constant variation).  
+
 # The four tests are:  
 Run sequence (data vs (i)or(id(test#))): the fixed variation assumption is true if vertical spread is the same over entire x axis (there is minimal bends in the trend line)) and the fixed location assumption is true if the run sequence plot (trend line = mean and) is flat and non-drifting.  
 Histogram (frequency vs bins): the fixed normal distribution is true if bell shaped, other shapes may indicate other type of distribution.  
