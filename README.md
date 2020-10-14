@@ -23,13 +23,23 @@ THEN the data is parametric (it has a known distribution) AND probabilistic pred
 
 ELSE the process is unpredictable, out of control, drifting and no conclusions-judgements for the past or predictions in the future can be made. Repeating the tests will yield different and unrelated results because there could be other unknown and unknowable variables not accounted for.
 
-An example of unpredictable out of control data that cannot be used to make predicitions is the 2016 United States elections. All media and pundits were completely wrong in predicting the results because their statistical models failed the 4 tests (the samples were not random with a constant mean and a constant distribution and constant variation).  
+An example of unpredictable out of control data that cannot be used to make predictions is the 2016 United States elections. All media and pundits were completely wrong in predicting the results because their statistical models failed the 4 tests (the samples were not random with a constant mean and a constant distribution and constant variation).  
 
 # The four tests are:  
-Run sequence (data vs (i)or(id(test#))): the fixed variation assumption is true if vertical spread is the same over entire x axis (there is minimal bends in the trend line)) and the fixed location assumption is true if the run sequence plot (trend line = mean and) is flat and non-drifting.  
-Histogram (frequency vs bins): the fixed normal distribution is true if bell shaped, other shapes may indicate other type of distribution.  
-Lag plot (data(i) vs data(i-1)): the randomness assumption is true if it is structureless and random.  
-Normal probability plot (ordered Y versus theoretical ordered Y): the fixed distribution assumption is true if linear, a straight line means the data is normally distributed.  
+
+Random sample (test 1) assumption  
+The randomness assumption is true if Lag plot (data(i) vs data(i-1)) is structureless and random.  
+
+Fixed mean (location) (test 2) assumption  
+The fixed location assumption is true if the run sequence plot [trend line = mean] is flat and non-drifting.
+
+Fixed normal distribution (test 3) assumption  
+The fixed normal distribution is true if Histogram (frequency vs bins) is bell shaped (other shapes may indicate other type of distribution.  
+The fixed distribution assumption is true if Normal probability plot (ordered Y versus theoretical ordered Y) is linear, a straight line means the data is normally distributed.  
+
+Fixed variation (test 4) assumption  
+The fixed variation assumption is true if in the Run sequence (data vs (i)or(id(test#))) the vertical spread is the same over entire x axis (there is minimal bends in the trend line)).   
+
 
 IF the four assumptions hold  
 THEN we have achieved probabilistic predictability (the ability to make probability statements about the process in the past and about the process in the future). Such processes are said to be "in statistical control".  
