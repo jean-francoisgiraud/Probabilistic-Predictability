@@ -48,6 +48,12 @@ If the four assumptions are not valid, then the process is drifting (with respec
 Each of the four assumptions must be routinely tested to verify the continuous validity of the recommendations and conclusions.
 Extremes in data do not necessarily mean that they are due to a special cause (especially if the process is not in statistical control). They can still be part of the normal variation of the process.  
 
+EXAMPLES  
+![LagPlot](https://github.com/jean-francoisgiraud/Probabilistic-Predictability/blob/master/LagPlot.JPG)
+![Histogram](https://github.com/jean-francoisgiraud/Probabilistic-Predictability/blob/master/HistogramPlot.JPG)
+![RunSequencePlot](https://github.com/jean-francoisgiraud/Probabilistic-Predictability/blob/master/RunSequencePlot.JPG)
+![NormalProbabilityPlot](https://github.com/jean-francoisgiraud/Probabilistic-Predictability/blob/master/NormalProbabilityPlot.JPG)
+
 NOTES  
 Note-1: Stereotyping is a type of heuristic that people use instead of data and statistical analysis to form opinions or make judgments about things they have not completely seen or experienced. They work as a mental shortcut to assess everything from the social status of a person based on their actions to assumptions that a plant that is tall, has a trunk, and has leaves is a tree even though the person making the evaluation has never seen that particular type of tree before. Stereotypes are the pictures people have in their heads that are built around experiences as well as what we are told about the world.  
 
