@@ -2,7 +2,8 @@
 
 Knowing the degree of predictability and confidence in a process is a requirement in many fields such as sciences, engineering, technologies, medecine and justice.  
 
-Current model: Machine learning mathematics> Probability> Frequentists> Basic notion of probability: # Results / # Attempts  
+Current model: Machine learning mathematics> Probability> Frequentists> Basic notion of probability: # (number of) Results / # (number of) Attempts.   
+
 Future model: Machine learning mathematics> Probability> Bayesian> Basic notion of probability: The probability is not a number, but a distribution itself.  
 
 
